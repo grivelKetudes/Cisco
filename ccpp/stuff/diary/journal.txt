@@ -1,0 +1,10 @@
+https://shop.elsevier.com/books/tcp-ip-sockets-in-c/donahoo/978-0-12-374540-8
+    https://cs.baylor.edu/~donahoo/practical/CSockets2/textcode.html
+
+
+https://www.google.com/search?q=TCP%2FIP+Sockets+in+C+ractical.h&oq=TCP%2FIP+Sockets+in+C+ractical.h&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gELMjQxNzE1ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8
+
+https://shop.elsevier.com/search?query=tcp%2Fip%20socket%20in%20c&type=Book
+
+https://www.gnu.org/software/libc/
+    https://ftp.gnu.org/gnu/glibc/?C=M;O=D
